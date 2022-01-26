@@ -1,1 +1,3 @@
-console.log(5)
+import app from './app'
+
+app.listen(3333)
